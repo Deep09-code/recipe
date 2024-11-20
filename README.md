@@ -8,8 +8,4 @@ The major ingredient is the cashew. If you do not add the cashew, the gravy woul
 The recipe also requires iron utensils which gives the masala a perfect flavour and adds iron content to it, that makes it more healthy. 
 I would recommend adding the mustard oil for aroma and it is also healthy as compared to the other oils. 
 Please avoil
-<<<<<<< HEAD
-Last line changed locally
-=======
->>>>>>> df2c3259da758fc33b4e083e1a2becaa677a5398
-### This is a local change
+### This is a local change :)
