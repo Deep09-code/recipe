@@ -3,4 +3,4 @@ The 'git-status' command is used to display the current state of the working dir
 
 This command also keeps track of the progress and ensures that we have added all the changes before commit. 
 
-If we are using the Jupyter lab IDE instead of Terminal, we could access the same information through the Git extension in Jupyter lab. We can see all the files such as untracked files, modified files and files staged for commit. 
+If we are using the Jupyter lab IDE instead of Terminal, we could access the same information through the Git extension in Jupyter lab. We can see all the files such as untracked files, modified files and files staged for commit. Adding some new content to ensure changes.
